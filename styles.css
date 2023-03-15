@@ -55,7 +55,8 @@ html, body{
 
 .card .content p{
     text-align: justify;
-    margin: 10px 0;
+    margin: 10px;
+    padding: 10px;
 }
 
 .card .content .btn{
